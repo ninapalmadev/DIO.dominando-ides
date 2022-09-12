@@ -14,7 +14,6 @@ public class PrimeiroPrograma {
 		int v = 4;
 		
 		System.out.println("Hello World " + (a + v));
-		
 	}
 
 }
